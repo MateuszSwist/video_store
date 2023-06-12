@@ -14,3 +14,4 @@
 # 7. Fake_data wymaga paru poprawek i jestem tego świadom, pare danych jest przypisano
 # na sztywno, jak na przykład każdy klient i obługiwacz zawsze jest active,
 # ale nie chciało mi się już tracić na to więcej czasu :P
+#update 1: Przy wypełnianiu baz danych będą wyskakiwać warningi, ale czyniąc długą historię krótką- olać, wszystko będzie działać ;)
